@@ -60,8 +60,8 @@ Jira & Notion: 일정 관리 및 개발 기록 문서화. 팀 프로젝트에서
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourID&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourID&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naioooo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naioooo&layout=compact&theme=tokyonight)
 
 </div>
 
